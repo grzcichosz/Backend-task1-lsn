@@ -12,7 +12,7 @@ The application outputs the list of distinct elements sorted in ascending order,
 plus the basic measurement information that contains the number of elements in the source,
 number of distinct elements, min and max value.
 
-The input is a long list of integers. 
+The input is a long list of integers entered one by one separated by space;
 
 For the input:
 ```
